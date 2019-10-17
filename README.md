@@ -11,3 +11,7 @@
   1. Создаем нумеровнный список 2-го уровня 1
   2. Создаем нумеровнный список 2-го уровня 2
   3. Создаем нумеровнный список 2-го уровня 3
+
+#### Создаем ссылки
+[coddism.com]:http://coddism.com/zametki/razmetka_readmemd_v_github
+https://coddism.com/zametki/razmetka_readmemd_v_github
